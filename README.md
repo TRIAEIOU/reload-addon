@@ -1,6 +1,6 @@
 # Reload addon
 
-Minimal [Anki](https://ankiweb.net) [addon]() ([source](https://github.com/TRIAEIOU/reload-addon)) for addon developers that allow selecting an addon and reload it from main window menu or shortcut (main window) to avoid having to restart Anki during addon development.
+Minimal [Anki](https://ankiweb.net) [addon](https://ankiweb.net/shared/info/613411786) ([source](https://github.com/TRIAEIOU/reload-addon)) for addon developers that allow selecting an addon and reload it from main window menu or shortcut (main window) to avoid having to restart Anki during addon development.
 
 ## Usage
 
